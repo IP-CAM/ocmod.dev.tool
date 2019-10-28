@@ -1,3 +1,3 @@
 <?php
-    echo "ab\n";
+    var_dump($argv);
 ?>
